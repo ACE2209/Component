@@ -14,7 +14,7 @@ class Menu extends Component {
                   category: 'mains',
                   label:'Hot',
                   price:'4.99',
-                  description:'Trân nè! A unique combination of Indian Uthappam (pancake) and Italian pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Paneer.'                        },
+                  description:'update coi! A unique combination of Indian Uthappam (pancake) and Italian pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Paneer.'                        },
                {
                   id: 1,
                   name:'Zucchipakoda',
